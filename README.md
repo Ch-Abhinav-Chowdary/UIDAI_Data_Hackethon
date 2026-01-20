@@ -6,7 +6,7 @@
 - Run the notebook:
   - `notebooks/uidai_enrolment_analysis.ipynb`
 
-## Scope (important)
+## Scope
 - We analyze: time trends, age-group composition, geographic concentration, demand pressure indicators
 - We do NOT analyze/mention: rejections, biometrics, gender, updates, individual-level records
 
